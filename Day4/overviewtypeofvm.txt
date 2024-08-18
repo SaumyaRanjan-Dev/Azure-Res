@@ -1,0 +1,85 @@
++---------------------------+
+| B-Series (Burstable VMs)  |
+|---------------------------|
+| Who it's for: Small to    |
+| medium-sized applications |
+| with variable workloads.  |
+| Best for: Development,    |
+| testing, or low-traffic   |
+| web servers.              |
+| Example Use Case: A blog  |
+| or small business website |
+| with variable traffic.    |
++---------------------------+
+
++---------------------------+
+| D-Series (General Purpose)|
+|---------------------------|
+| Who it's for: Wide range  |
+| of applications needing   |
+| balanced compute and      |
+| memory.                   |
+| Best for: Web servers,    |
+| application servers, and  |
+| small to medium databases.|
+| Example Use Case: An      |
+| e-commerce site or        |
+| internal business apps.   |
++---------------------------+
+
++---------------------------+
+| E-Series (Memory Optimized)|
+|---------------------------|
+| Who it's for: Applications|
+| requiring a lot of RAM.   |
+| Best for: Large databases,|
+| in-memory caching, and    |
+| data analytics.           |
+| Example Use Case: A       |
+| high-performance database |
+| or big data processing    |
+| application.              |
++---------------------------+
+
++---------------------------+
+| F-Series (Compute Optimized)|
+|---------------------------|
+| Who it's for: Workloads   |
+| needing high CPU          |
+| performance.              |
+| Best for: Batch processing,|
+| high-performance computing,|
+| and gaming.               |
+| Example Use Case: Running |
+| complex calculations or   |
+| simulation workloads.     |
++---------------------------+
+
++---------------------------+
+| L-Series (Storage Optimized)|
+|---------------------------|
+| Who it's for: Applications|
+| with heavy storage needs. |
+| Best for: Data warehousing,|
+| big data analytics, and   |
+| high-performance file     |
+| servers.                  |
+| Example Use Case: A big   |
+| data application with     |
+| large storage requirements.|
++---------------------------+
+
++---------------------------+
+| N-Series (GPU Optimized)  |
+|---------------------------|
+| Who it's for: Graphics-   |
+| intensive and parallel    |
+| processing tasks.         |
+| Best for: Machine learning,|
+| 3D rendering, and video   |
+| processing.               |
+| Example Use Case: Training|
+| a machine learning model  |
+| or rendering complex      |
+| graphics.                 |
++---------------------------+
